@@ -1,3 +1,5 @@
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-omdika.github.io-blue?style=flat-square&logo=github)](https://omdika.github.io/)
+
 # News Crawler and QA Agent
 
 Proyek ini terdiri dari dua komponen utama:
